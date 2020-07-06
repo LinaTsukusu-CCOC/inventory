@@ -1,0 +1,12 @@
+{
+    author = "LinaTsukusu",
+    name = "inventory",
+    description = "",
+    repository = "LinaTsukusu-CCOC/inventory",
+    version = "1.0.0",
+    files = {
+        "inventory.lua"
+    },
+    dependencies = {
+    },
+}
